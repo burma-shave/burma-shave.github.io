@@ -1,4 +1,4 @@
 burma-shave.github.io
 =====================
 
-Ocotopress blog.
+Octopress blog.
