@@ -7,10 +7,30 @@ categories: [racket, programming]
 published: false
 ---
 
+Research Plan
+-------------
+
+* Watch some more PL course videos
+* Get an alternative history of LIST/Racket to the one from the RealmOfRacket
+* correnspondance between ease of creating LISP dialects and Racket platform language extensibility
+
 This is a brief introduction to Racket that I'm writing as I learn it.
 
 http://imgs.xkcd.com/comics/lisp.jpg
 {% img http://imgs.xkcd.com/comics/lisp.jpg %}
+
+History of Lisp
+----------------
+
+Lambda calculus - 1930s Alonzo Church
+
+A950 Job McCarthy MIT found papers by AC
+
+LISP is list centric and very simple
+
+Ease of writing a LISP interpreter lead to many implementations and dialects of LISP.
+
+
 
 What is Racket?
 ---------------
